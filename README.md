@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+👯 I’m looking to collaborate on more Open Source Projects
+
+📫 How to reach me vikramgill563@gmail.com
 <!--
 **vickymessii/vickymessii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
