@@ -8,7 +8,7 @@
 <br/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vickymessii&show_icons=true&locale=en&layout=compact&theme=algolia&hide=python,c,tcl,cpp" alt="Vicky Messi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vickymessii&show_icons=true&locale=en&layout=compact&theme=algolia&hide=python,c,tcl,c++" alt="Vicky Messi" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vickymessii&show_icons=true&locale=en&theme=chartreuse-dark" alt="Vicky Messi" /></p>
 
