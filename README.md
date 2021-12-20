@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-   I'm FullStack PHP/Laravel Developer.
+   I'm FullStack PHP/Laravel Developer. <br/>
 👯 I’m looking to collaborate on Open Source Projects
 
 📫 How to reach me vikramgill563@gmail.com
