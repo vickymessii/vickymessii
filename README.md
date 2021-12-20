@@ -10,8 +10,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vickymessii&show_icons=true&locale=en&layout=compact&theme=algolia&hide=python,c,tcl,c%2B%2B,html" alt="Vicky Messi" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vickymessii&show_icons=true&locale=en&theme=chartreuse-dark" alt="Vicky Messi" /></p>
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vickymessii&show_icons=true&locale=en&theme=chartreuse-dark" alt="Vicky Messi" /></p>-->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vickymessii&theme=highcontrast&count_private=true)   
 
