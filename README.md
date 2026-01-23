@@ -197,7 +197,7 @@ General Integrations:
 ### For Technical Collaboration & Open Source
 - **GitHub:** `@vickymessii`
 - **Email:** vikramgill563@gmail.com
-- **Stack Overflow:** [Your Profile]
+- **Stack Overflow:** https://stackoverflow.com/users/8083975/vicky-gill
 
 ### For Business & Consulting Inquiries
 - **LinkedIn:** https://www.linkedin.com/in/vikramgill563/ (Travel technology consulting)
