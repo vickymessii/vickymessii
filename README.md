@@ -89,7 +89,7 @@ I design ecosystems where airlines, POS systems, payment gateways, delivery apps
 - Integration Architecture
 - API Platform Design
 - Technical Audits
-- Strategic Projects *(1–2 active clients)*
+- Selective availability for high-impact architecture projects
 
 ---
 
